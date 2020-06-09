@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+body{
+  background-color: #F5F5F5;
+}
+
+blockquote{
+  padding: 0.5ex;
+  padding-left: 1ex;
+  border: solid 0ex #000000;
+  border-left-width: 1ex;
+}
+
+pre{
+  padding: 0.5ex;
+  padding-left: 1ex;
+  border: solid 0ex #000000;
+  border-left-width: 1px;
+}
+
+blockquote cite:before{
+  display: inline-block;
+  content: "―";
+}
+
+th {
+  padding: 0.5ex;
+}
+
+td {
+  padding: 0.5ex;
+}
+
+
+div.source{
+  padding: 1ex;
+  margin: 1ex;
+}
+
+*.sourcetitle{
+  background-color: rgba(255,255,255,0.5);
+}
+
+div.kairo div.source{
+  background-color: #FFE0E0;
+}
+
+
+div.akashic div.source{
+  background-color: #E0FFE0;
+}
+
+div.others div.source{
+  background-color: #E0E0FF;
+}
+
+table{
+  margin: 1ex;
+}
+
+table td.tdheader{
+  font-weight: bold;
+}
+
+table.sourceattributes{
+  border: solid 2px;
+  background-color: #F5F5F5;
+}
+
+table.sourceattributes th,td{
+  border: solid 1px;
+}
+
+table.tracks{
+  border: solid 2px;
+  background-color: #F5F5F5;
+}
+
+table.tracks th,td{
+  border: solid 1px;
+}
