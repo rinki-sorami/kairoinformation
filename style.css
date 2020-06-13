@@ -72,17 +72,19 @@ table td.tdheader{
 table.sourceattributes{
   border: solid 2px;
   background-color: #F5F5F5;
+  border-collapse: collapse;
 }
 
-table.sourceattributes th,td{
+table.sourceattributes th, table.sourceattributes td{
   border: solid 1px;
 }
 
 table.tracks{
   border: solid 2px;
   background-color: #F5F5F5;
+  border-collapse: collapse;
 }
 
-table.tracks th,td{
+table.tracks th, table.tracks td{
   border: solid 1px;
 }
