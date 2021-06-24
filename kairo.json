@@ -1480,6 +1480,20 @@
           "vocal": "556t",
           "original music": "大神神話伝",
           "length": "4:04"
+        },
+        {
+          "disc number": 6,
+          "track number": 5,
+          "title": "pray",
+          "lyric": "メガネ",
+          "music": "ZUN",
+          "arrange": "メガネ",
+          "vocal": "556t",
+          "guitar": "毛",
+          "bass": "megane＜scream＞",
+          "drum": "麿",
+          "original music": "ラストリモート",
+          "length": "3:30"
         }
       ]
     },
@@ -1546,6 +1560,34 @@
           "drum": "麿",
           "original music": "Demystify Feast",
           "length": "4:11"
+        },
+        {
+          "disc number": "DVD2",
+          "track number": 5,
+          "title": "此処に紡ぐ",
+          "lyric": "ke",
+          "music": "ZUN",
+          "arrange": "ke",
+          "vocal": "556t",
+          "guitar": "ke",
+          "bass": "メガネ",
+          "drum": "麿",
+          "original music": "幽雅に咲かせ、墨染の桜　～ Border of Life",
+          "length": "3:56"
+        },
+        {
+          "disc number": "DVD3",
+          "track number": 9,
+          "title": "一期一会",
+          "lyric": "ke",
+          "music": "ZUN",
+          "arrange": "メガネ",
+          "vocal": "556t",
+          "guitar": "ke",
+          "bass": "メガネ",
+          "drum": "麿",
+          "original music": "竹取飛翔　～ Lunatic Princess",
+          "length": "5:19"
         }
       ]
     },
