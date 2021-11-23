@@ -1313,6 +1313,25 @@
   ],
   "others": [
     {
+      "circle": "宮崎県のおにくを守り隊",
+      "title": "yell",
+      "classification": "宮崎口蹄疫チャリティー同人CD企画",
+      "date": "2010.08.14",
+      "event": "コミックマーケット78",
+      "tracks": [
+        {
+          "track number": 2.3,
+          "title": "種蒔く人",
+          "Compose & Guiter & Synthesizer": "毛蟹",
+          "Guiter & Scream": "KENTO",
+          "Bass": "megane",
+          "vocal": "556t",
+          "length": "5:17",
+          "note": "Live版 YouTube投稿https://www.youtube.com/watch?v=94qe4BNMXBk"
+        }
+      ]
+    },
+    {
       "circle": "天狗ノ舞",
       "title": "幻想邂逅憧憬夜行",
       "classification": "東方Projectアレンジアルバム",
@@ -1634,17 +1653,6 @@
           "translation": "本山清治",
           "length": "5:16",
           "note": "夜明けのセカイと思考回路 #3 のリメイク"
-        }
-      ]
-    },
-    {
-      "title": "?",
-      "note": "Liveのみ？",
-      "tracks": [
-        {
-          "title": "種蒔く人",
-          "length": "?",
-          "note": "YouTube投稿https://www.youtube.com/watch?v=94qe4BNMXBk"
         }
       ]
     }
