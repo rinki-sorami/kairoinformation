@@ -1655,6 +1655,31 @@
           "note": "夜明けのセカイと思考回路 #3 のリメイク"
         }
       ]
+    },
+    {
+      "circle": "TO-MAS",
+      "title": "Nalcorepsy",
+      "classification": "demoCD",
+      "date": "?",
+      "event": "?",
+      "note": "情報求む",
+      "tracks": [
+        {
+          "track number": 1,
+          "title": "子守唄",
+          "length": "?"
+        },
+        {
+          "track number": 2,
+          "title": "ひきこもりの森",
+          "length": "?"
+        },
+        {
+          "track number": 3,
+          "title": "The Wheel of Fortune",
+          "length": "?"
+        }
+      ]
     }
   ]
 }
